@@ -2,6 +2,11 @@
 
 This Shiny app explores how daily social media use is associated with teen stress, anxiety, sleep, academic performance, and depression risk in a synthetic Kaggle dataset.
 
+# Group member list
+- 20964379 Lam Ching Yin (Leader & Owner)
+- 21335771 Mirja Suvi Wulff
+- 21057381 Xu Zijian
+- 21064932 Chan Chi Him
 ## Project question
 
 Do teens with heavier daily social media use show higher stress and anxiety, shorter sleep, lower academic performance, and higher depression risk?
